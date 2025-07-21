@@ -1,0 +1,11 @@
+---
+title: "Blog Posts"
+listing:
+  contents: posts
+  categories: false
+  sort-ui: true
+  filter-ui: false
+  max-description-length: 200
+  type: grid
+title-block-banner: true
+---

@@ -1,0 +1,12 @@
+---
+title: "Title"
+description: "Description"
+author: "Alessandra Vidal Meza"
+date: last-modified
+citation: 
+  url: https://avidalmeza.github.io/posts/post-title
+bibliography: references.bib
+format:
+  html:
+    toc: true
+---

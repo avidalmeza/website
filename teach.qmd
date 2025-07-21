@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+{{< fa satellite >}} EDS 223: Geospatial Analysis & Remote Sensing, UC Santa Barbara
+: Teaching Assistant (F24, F25)
+
+> "Ale clearly has a passion for teaching. Her enthusiasm was very encouraging, especially because we were learning complex, new concepts. The environment during section was lively and comfortable. Ale created an environment where making mistakes and getting stuck were part of the learning process. This made the course less intimidating – the focus was on learning, rather than on perfection or completion of an assignment, but without abandoning important goals and standards of coding. Ale was also very approachable and eager to meet with students when they needed assistance."
+
+{{< fa location-dot >}} ENV S 154: GIS for Environmental Applications, UC Santa Barbara
+: Teaching Assistant (Sp25)
+
+> "Ale has done a great job making this class approachable — especially for those of us who didn’t take the class with a lot of GIS experience. I really appreciated how clear and patient she was in helping us understand both the conceptual side and all the technical aspects of ArcGIS. The labs had a lot of applied concepts, but Ale did well in helping us troubleshoot and explaining things step by step."
+
+> "She always found a way to explain functions in a general way that made it applicable to most situations while still leaving room to experiment and figure out the specifics on your own."
+
+<!-- ## Guest Lectures
+
+I also often visit other classrooms to talk about data sovereignty and stewardship.
+
+- ESM 513: Environmental Research Design, UC Santa Barbara (F24)
+- ENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (Sp24, F24, Sp25) -->
