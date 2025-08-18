@@ -2,21 +2,30 @@
 title: "Teaching"
 ---
 
-{{< fa satellite >}} EDS 223: Geospatial Analysis & Remote Sensing, UC Santa Barbara
-: Teaching Assistant (F24, F25)
+At UC Santa Barbara, I have served as a Teaching Assistant for master's- and undergraduate-level courses in the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science){target="_blank"} and [Environmental Studies Program](https://es.ucsb.edu/degrees){target="_blank"}, covering topics in Geographic Information Sciences (GIS) and R/Python programming:
 
-> "Ale clearly has a passion for teaching. Her enthusiasm was very encouraging, especially because we were learning complex, new concepts. The environment during section was lively and comfortable. Ale created an environment where making mistakes and getting stuck were part of the learning process. This made the course less intimidating – the focus was on learning, rather than on perfection or completion of an assignment, but without abandoning important goals and standards of coding. Ale was also very approachable and eager to meet with students when they needed assistance."
+- **EDS 223: Geospatial Analysis & Remote Sensing** (F24, F25)
 
-{{< fa location-dot >}} ENV S 154: GIS for Environmental Applications, UC Santa Barbara
-: Teaching Assistant (Sp25)
+- **ENV S 154: GIS for Environmental Applications** (Sp25)
 
-> "Ale has done a great job making this class approachable — especially for those of us who didn’t take the class with a lot of GIS experience. I really appreciated how clear and patient she was in helping us understand both the conceptual side and all the technical aspects of ArcGIS. The labs had a lot of applied concepts, but Ale did well in helping us troubleshoot and explaining things step by step."
+- **EDS 212: Essential Math in Environmental Data Science** (Su25)
 
-> "She always found a way to explain functions in a general way that made it applicable to most situations while still leaving room to experiment and figure out the specifics on your own."
+- **EDS 221: Scientific Programming Essentials** (Su25)
 
-<!-- ## Guest Lectures
+- **EDS 221: Analytical Workflows and Scientific Reproducibility** (Su25)
 
-I also often visit other classrooms to talk about data sovereignty and stewardship.
+I'm also completing a <u>Certificate in Inclusive Teaching</u> as part of my commitment to create an equitable learning environment for all students.
 
-- ESM 513: Environmental Research Design, UC Santa Barbara (F24)
-- ENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (Sp24, F24, Sp25) -->
+<!-- I obtained my [Carpentries Instructor](https://carpentries.org/){target="_blank"} certification in 2023. Most recently, I was part of the teaching team for the *R For Reproducible Scientific Analysis* workshop organized by the Institute for Tribal Environmental Professionals (ITEP) at Northern Arizona University. -->
+
+<br>
+
+## Select Guest Lectures & Presentations
+
+I compiled a [non-exhaustive repository](https://avidalmeza.shinyapps.io/anticolonial-envstudies/){target="_blank"} of learning materials—including peer-reviewed papers, podcasts, talks, and articles—highlighting anticolonial perspectives in environmental studies. I present on these topics:
+
+{{< fa leaf >}} [**Indigenous Data Sovereignty in Ecology and Environmental Science**](https://avidalmeza.github.io/data-sovereignty/#/){target="_blank"}
+: - ENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (Sp24, F24, Sp25)
+
+{{< fa magnifying-glass >}} **Indigenous Research Paradigms**
+: - ESM 513: Environmental Research Design, UC Santa Barbara (F24)
