@@ -1,54 +1,66 @@
 /*-- scss:defaults --*/
-// Define font from Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
-$ibm-plex-sans: 'IBM Plex Sans', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap");
+$ibm-plex-sans: "IBM Plex Sans", sans-serif;
 
-// Define color variables
 $jet: #353535;
-$dim-gray: #666666;
 $white: #FFFFFF;
-$alice-blue: #EBF7FC;
 $viridian: #62937A;
-$hunter-green: #386641;
 $verdigris: #68B0AB;
-$tea-green: #C8D5B9;
 
-// Set base document colors 
 $navbar-bg: $white;
 $navbar-fg: $jet;
 $body-bg: $white;
 $body-color: $jet;
-$link-color: $dim-gray;
+$link-color: $verdigris;
 
 /*-- scss:rules --*/
 h1 {
-  font-size: 2em;
+  font-size: 1.75em;
 }
 
 h2, .h2 {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5em;
   border-bottom: none;
 }
 
-// Remove border line between side and main about panel
-div.quarto-about-trestles .about-contents {
-  border-left: 0px;
+a {
+  text-underline-offset: 0.3em;
+  text-decoration-style: wavy;
 }
 
-// Set padding for side about panel
-div.quarto-about-trestles .about-entity {
-  padding-left: 0.75em;
+div.quarto-about-solana {
+  margin-top: 3.5em;
 }
 
-// Define media query for devices with a minimum width of 992px (desktop view)
+// Set media query for devices with a minimum width of 992px (desktop view)
 @media (min-width: 992px){
-  div.quarto-about-trestles .about-entity {
-    // Set flex container in desktop view
-    flex: 0 0 35%;
-    // Remove padding for side about panel in desktop view
-    padding-left: 0em;
+  div.quarto-about-solana .about-entity .entity-contents {
+    padding-right: 3.5em;
   }
 }
 
 
 
+
+
+
+
+
+
+//  Style customizations for "trestles" theme
+
+// div.quarto-about-trestles .about-contents {
+//  border-left: 0px; // Remove border line between side and main about panel
+// }
+
+// div.quarto-about-trestles .about-entity {
+  // padding-left: 0.75rem;
+// }
+
+// Set media query for devices with a minimum width of 992px (desktop view)
+// @media (min-width: 992px){
+  // div.quarto-about-trestles .about-entity {
+   // flex: 0 0 40%;  // Set flex container in desktop view
+    // padding-left: 0rem;
+//  }
+// }
