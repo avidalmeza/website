@@ -8,15 +8,18 @@ website:
   search: false
   navbar:
     title: "Alessandra Vidal Meza"
+    logo: images/favicon.svg
     pinned: true
     right:
+      #- text: About
+      #  href: about.qmd
       #- text: Research
       #  href: research.qmd
       - text: Teaching
         href: teach.qmd
           
   page-footer:
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/avidalmeza/avidalmeza.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with [{{< fa brands github >}}](https://github.com/avidalmeza/avidalmeza.github.io){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
