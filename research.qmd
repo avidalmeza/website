@@ -1,5 +1,0 @@
----
-title: "Research"
----
-
-I'm broadly interested in population dynamics shifts, such as changes in mortality and diel migration, amid global change.

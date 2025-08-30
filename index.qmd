@@ -1,30 +1,12 @@
 ---
 title: "Alessandra Vidal Meza"
-subtitle: "(She/Her/Ella)"
+subtitle: "She/Her/Ella"
 image: images/avidalmeza.jpeg
 about:
-  template: trestles
-  image-shape: round
-  # links: 
-  #  - text: GitHub
-  #    icon: github
-  #    href: https://github.com/avidalmeza
-  #    target: _blank
-  #  - text: Email
-  #    icon: envelope
-  #    href: mailto:avidalmeza@bren.ucsb.edu
+  template: solana
+  image-shape: rectangle
 ---
 
-## About
+I'm a PhD student at UC Santa Barbara's Bren School of Environmental Science & Management, advised by [Ruth Oliver](https://oliverlab.org){target="_blank"}. I use tracking technologies to gather ecological insight about wildlife and support the conservation of our more-than-human relations. When I’m not coding away on my computer, you can find me outside on a trail, swimming in the ocean, or [logging a wildlife sighting](https://www.inaturalist.org/observations?place_id=any&user_id=avidalmeza&verifiable=any){target="_blank"}.
 
-I'm an environmental data scientist from Lima, Perú, and a PhD student at the Bren School of Environmental Science & Management at UC Santa Barbara. I use tracking technologies to gather ecological insight about wildlife and support the conservation of our more-than-human relations. Previously, I was a Dangermond Fellow at the National Audubon Society, in partnership with Esri, where I made maps to protect birds and the places they need. When I’m not coding away on my computer, you can find me outside on a trail, swimming in the ocean, or [logging a wildlife sighting](https://www.inaturalist.org/observations?place_id=any&user_id=avidalmeza&verifiable=any){target="_blank"}.
-
-## Education
-<!-- {{< fa graduation-cap >}} PhD, Environmental Science and Management
-: University of California, Santa Barbara &mdash; 2024-Present -->
-
-{{< fa graduation-cap >}} Master's degree, Environmental Data Science
-: University of California, Santa Barbara &mdash; 2023
-
-{{< fa graduation-cap >}} Bachelor's degree, Economics; Environmental Policy & Decision Making 
-: University of Puget Sound &mdash; 2022
+Stroll around my site to learn more about me and my work!

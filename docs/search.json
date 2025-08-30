@@ -1,65 +1,16 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog Posts",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\nAlessandra Vidal Meza\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alessandra Vidal Meza",
     "section": "",
-    "text": "I’m an environmental data scientist from Lima, Perú, and a PhD student at the Bren School of Environmental Science & Management at UC Santa Barbara. I use tracking technologies to gather ecological insight about wildlife and support the conservation of our more-than-human relations. Previously, I was a Dangermond Fellow at the National Audubon Society, in partnership with Esri, where I made maps to protect birds and the places they need. When I’m not coding away on my computer, you can find me outside on a trail, swimming in the ocean, or logging a wildlife sighting."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Alessandra Vidal Meza",
-    "section": "",
-    "text": "I’m an environmental data scientist from Lima, Perú, and a PhD student at the Bren School of Environmental Science & Management at UC Santa Barbara. I use tracking technologies to gather ecological insight about wildlife and support the conservation of our more-than-human relations. Previously, I was a Dangermond Fellow at the National Audubon Society, in partnership with Esri, where I made maps to protect birds and the places they need. When I’m not coding away on my computer, you can find me outside on a trail, swimming in the ocean, or logging a wildlife sighting."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Alessandra Vidal Meza",
-    "section": "Education",
-    "text": "Education\n\n\n Master’s degree, Environmental Data Science\n\nUniversity of California, Santa Barbara — 2023\n\n Bachelor’s degree, Economics; Environmental Policy & Decision Making\n\nUniversity of Puget Sound — 2022"
-  },
-  {
-    "objectID": "posts/post-title/index.html",
-    "href": "posts/post-title/index.html",
-    "title": "Title",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{vidal_meza2025,\n  author = {Vidal Meza, Alessandra},\n  title = {Title},\n  date = {2025-07-01},\n  url = {https://avidalmeza.github.io/posts/post-title},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nVidal Meza, Alessandra. 2025. “Title.” July 1, 2025. https://avidalmeza.github.io/posts/post-title."
+    "text": "I’m a PhD student at UC Santa Barbara’s Bren School of Environmental Science & Management, advised by Ruth Oliver. I use tracking technologies to gather ecological insight about wildlife and support the conservation of our more-than-human relations. When I’m not coding away on my computer, you can find me outside on a trail, swimming in the ocean, or logging a wildlife sighting.\nStroll around my site to learn more about me and my work!"
   },
   {
     "objectID": "teach.html",
     "href": "teach.html",
-    "title": "Teaching",
+    "title": "Teaching Data Science & Stewardship",
     "section": "",
-    "text": "At UC Santa Barbara, I have served as a Teaching Assistant for master’s- and undergraduate-level courses in the Master of Environmental Data Science and Environmental Studies Program, covering topics in Geographic Information Sciences (GIS) and R/Python programming:\nI’m also completing a Certificate in Inclusive Teaching as part of my commitment to create an equitable learning environment for all students."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I’m broadly interested in population dynamics shifts, such as changes in mortality and diel migration, amid global change."
-  },
-  {
-    "objectID": "teach.html#select-guest-lectures-presentations",
-    "href": "teach.html#select-guest-lectures-presentations",
-    "title": "Teaching",
-    "section": "Select Guest Lectures & Presentations",
-    "text": "Select Guest Lectures & Presentations\nI compiled a non-exhaustive repository of learning materials—including peer-reviewed papers, podcasts, talks, and articles—highlighting anticolonial perspectives in environmental studies. I present on these topics:\n\n Indigenous Data Sovereignty in Ecology and Environmental Science\n\n\nENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (Sp24, F24, Sp25)\n\n\n Indigenous Research Paradigms\n\n\nESM 513: Environmental Research Design, UC Santa Barbara (F24)"
-  },
-  {
-    "objectID": "teach.html#resource-development",
-    "href": "teach.html#resource-development",
-    "title": "Teaching",
-    "section": "Resource Development",
-    "text": "Resource Development\nI"
+    "text": "Teaching Data Science & Stewardship\nI have contributed to teaching the following courses and workshops, as a guest instructor or teaching assistant (TA):\n\n   Geographic Information Sciences (GIS)\n\n\nEDS 223: Geospatial Analysis & Remote Sensing, UC Santa Barbara (2024-25; TA)\nENV S 154: GIS for Environmental Applications, UC Santa Barbara (2025; TA)\n\n\n   Research Computing\n\n\nEDS 212: Essential Math in Environmental Data Science, UC Santa Barbara (2025; TA)\nEDS 221: Scientific Programming Essentials, UC Santa Barbara (2025; TA)\nEDS 214: Analytical Workflows and Scientific Reproducibility, UC Santa Barbara (2025; TA)\nSoftware Carpentry: R For Reproducible Scientific Analysis, Institute for Tribal Environmental Professionals (2024; Guest)\n\n\n   Data Sovereignty and Stewardship\n\n\nENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (2024-25; Guest) {slides} \nESM 513: Environmental Research Design, UC Santa Barbara (2024; Guest)"
   }
 ]

@@ -1,31 +1,23 @@
 ---
-title: "Teaching"
+pagetitle: "Teaching"
 ---
 
-At UC Santa Barbara, I have served as a Teaching Assistant for master's- and undergraduate-level courses in the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science){target="_blank"} and [Environmental Studies Program](https://es.ucsb.edu/degrees){target="_blank"}, covering topics in Geographic Information Sciences (GIS) and R/Python programming:
+# Teaching Data Science & Stewardship
 
-- **EDS 223: Geospatial Analysis & Remote Sensing** (F24, F25)
+I have contributed to teaching the following courses and workshops, as a guest instructor or teaching assistant (TA):
 
-- **ENV S 154: GIS for Environmental Applications** (Sp25)
+{{< fa satellite >}} &nbsp; **Geographic Information Sciences (GIS)**
+: - EDS 223: Geospatial Analysis & Remote Sensing, *UC Santa Barbara* (2024-25; TA)
+- ENV S 154: GIS for Environmental Applications, *UC Santa Barbara* (2025; TA)
 
-- **EDS 212: Essential Math in Environmental Data Science** (Su25)
 
-- **EDS 221: Scientific Programming Essentials** (Su25)
+{{< fa terminal >}} &nbsp; **Research Computing**
+: - EDS 212: Essential Math in Environmental Data Science, *UC Santa Barbara* (2025; TA)
+- EDS 221: Scientific Programming Essentials, *UC Santa Barbara* (2025; TA)
+- EDS 214: Analytical Workflows and Scientific Reproducibility, *UC Santa Barbara* (2025; TA)
+- Software Carpentry: R For Reproducible Scientific Analysis, *Institute for Tribal Environmental Professionals* (2024; Guest)
 
-- **EDS 221: Analytical Workflows and Scientific Reproducibility** (Su25)
 
-I'm also completing a <u>Certificate in Inclusive Teaching</u> as part of my commitment to create an equitable learning environment for all students.
-
-<!-- I obtained my [Carpentries Instructor](https://carpentries.org/){target="_blank"} certification in 2023. Most recently, I was part of the teaching team for the *R For Reproducible Scientific Analysis* workshop organized by the Institute for Tribal Environmental Professionals (ITEP) at Northern Arizona University. -->
-
-<br>
-
-## Select Guest Lectures & Presentations
-
-I compiled a [non-exhaustive repository](https://avidalmeza.shinyapps.io/anticolonial-envstudies/){target="_blank"} of learning materials—including peer-reviewed papers, podcasts, talks, and articles—highlighting anticolonial perspectives in environmental studies. I present on these topics:
-
-{{< fa leaf >}} [**Indigenous Data Sovereignty in Ecology and Environmental Science**](https://avidalmeza.github.io/data-sovereignty/#/){target="_blank"}
-: - ENV S 194TK: Traditional Ecological Knowledge Studies, UC Santa Barbara (Sp24, F24, Sp25)
-
-{{< fa magnifying-glass >}} **Indigenous Research Paradigms**
-: - ESM 513: Environmental Research Design, UC Santa Barbara (F24)
+{{< fa hands >}} &nbsp; **Data Sovereignty and Stewardship**
+: - ENV S 194TK: Traditional Ecological Knowledge Studies, *UC Santa Barbara* (2024-25; Guest) [{slides}](https://avidalmeza.github.io/data-sovereignty/#/){target="_blank"} <!-- Sp24, F24, Sp25 -->
+ - ESM 513: Environmental Research Design, *UC Santa Barbara* (2024; Guest)
