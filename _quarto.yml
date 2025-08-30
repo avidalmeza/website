@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Alessandra Vidal Meza"
@@ -17,7 +19,6 @@ website:
       #  href: research.qmd
       - text: Teaching
         href: teach.qmd
-          
   page-footer:
     right: This website is built with [{{< fa brands github >}}](https://github.com/avidalmeza/avidalmeza.github.io){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
